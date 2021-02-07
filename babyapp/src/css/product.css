@@ -1,0 +1,10 @@
+div.card {
+  height: 79% !important;
+  width: 18rem;
+}
+
+p.card-text {
+  height: 16em;
+  width: 18.6em;
+  overflow: hidden;
+}

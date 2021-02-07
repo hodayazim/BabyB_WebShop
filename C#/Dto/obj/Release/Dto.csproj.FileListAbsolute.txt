@@ -1,0 +1,12 @@
+C:\Users\hoday\Desktop\final project\C#\Dto\bin\Release\Dto.dll.config
+C:\Users\hoday\Desktop\final project\C#\Dto\bin\Release\Dto.dll
+C:\Users\hoday\Desktop\final project\C#\Dto\bin\Release\Dto.pdb
+C:\Users\hoday\Desktop\final project\C#\Dto\bin\Release\EntityFramework.dll
+C:\Users\hoday\Desktop\final project\C#\Dto\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\hoday\Desktop\final project\C#\Dto\bin\Release\EntityFramework.xml
+C:\Users\hoday\Desktop\final project\C#\Dto\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\hoday\Desktop\final project\C#\Dto\obj\Release\Dto.csprojAssemblyReference.cache
+C:\Users\hoday\Desktop\final project\C#\Dto\obj\Release\Dto.csproj.CoreCompileInputs.cache
+C:\Users\hoday\Desktop\final project\C#\Dto\obj\Release\Dto.csproj.CopyComplete
+C:\Users\hoday\Desktop\final project\C#\Dto\obj\Release\Dto.dll
+C:\Users\hoday\Desktop\final project\C#\Dto\obj\Release\Dto.pdb
